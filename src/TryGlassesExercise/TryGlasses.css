@@ -1,0 +1,15 @@
+@keyframes aniChangeGlasses {
+
+    from {
+        width: 0;
+    }
+    to {
+        width: 150px;
+    }
+    
+}
+.glassesStyle{
+    width: 250px;
+    animation: aniChangeGlasses;
+    animation-duration: 1s;
+}
