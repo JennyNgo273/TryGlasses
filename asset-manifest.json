@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TryGlasses/static/css/main.04571d4b.chunk.css",
+    "main.js": "/TryGlasses/static/js/main.1efd5980.chunk.js",
+    "main.js.map": "/TryGlasses/static/js/main.1efd5980.chunk.js.map",
+    "runtime-main.js": "/TryGlasses/static/js/runtime-main.25543a4d.js",
+    "runtime-main.js.map": "/TryGlasses/static/js/runtime-main.25543a4d.js.map",
+    "static/js/2.a044bfc0.chunk.js": "/TryGlasses/static/js/2.a044bfc0.chunk.js",
+    "static/js/2.a044bfc0.chunk.js.map": "/TryGlasses/static/js/2.a044bfc0.chunk.js.map",
+    "static/js/3.66506ee0.chunk.js": "/TryGlasses/static/js/3.66506ee0.chunk.js",
+    "static/js/3.66506ee0.chunk.js.map": "/TryGlasses/static/js/3.66506ee0.chunk.js.map",
+    "index.html": "/TryGlasses/index.html",
+    "static/css/main.04571d4b.chunk.css.map": "/TryGlasses/static/css/main.04571d4b.chunk.css.map",
+    "static/js/2.a044bfc0.chunk.js.LICENSE.txt": "/TryGlasses/static/js/2.a044bfc0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TryGlasses/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25543a4d.js",
+    "static/js/2.a044bfc0.chunk.js",
+    "static/css/main.04571d4b.chunk.css",
+    "static/js/main.1efd5980.chunk.js"
+  ]
+}
